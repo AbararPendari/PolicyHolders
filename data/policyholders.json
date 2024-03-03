@@ -1,0 +1,152 @@
+[
+  {
+    "id": "20d617a4-e95f-4b00-b32f-08fb5131db33",
+    "insuredFirstName": "Roman",
+    "insuredLastName": "noah",
+    "Age": 25,
+    "DateOfBirth": "1996-04-05",
+    "State": "Sydney",
+    "email": "noahroman@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "Roman noah" },
+      { "Relationship": "Child", "Name": "Henry Noah" }
+    ]
+  },
+  {
+    "id": "6df5c14c-19a6-46af-94d7-1744628d44f5",
+    "insuredFirstName": "Mary",
+    "insuredLastName": "Amelia",
+    "Age": 40,
+    "DateOfBirth": "1990-01-01",
+    "State": "Sydney",
+    "email": "maryamelia@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "Maryamelia" },
+      { "Relationship": "Daughter", "Name": "Sarah Amelia" }
+    ]
+  },
+  {
+    "id": "15dbfeab-55dd-422f-b7ba-f33c4123bcd7",
+    "insuredFirstName": "Elizabeth",
+    "insuredLastName": "Olivia",
+    "Age": 29,
+    "DateOfBirth": "1995-01-01",
+    "State": "California",
+    "email": "elizabetholivia@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "Elizabeth Olivia" },
+      { "Relationship": "Child", "Name": "Margaret Olivia" }
+    ]
+  },
+  {
+    "id": "0091a7a1-2dab-46af-8949-a2a02be4a794",
+    "insuredFirstName": "Ann",
+    "insuredLastName": "Poppy",
+    "Age": 36,
+    "DateOfBirth": "1990-03-01",
+    "State": "Melbourne",
+    "email": "annpoppy@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "Ann Poppy" },
+      { "Relationship": "Child", "Name": "Jane Poppy" }
+    ]
+  },
+  {
+    "id": "5d716673-d3eb-4dcc-a6cf-1898b3ba1f71",
+    "insuredFirstName": "Abarar ",
+    "insuredLastName": "Smith",
+    "Age": 30,
+    "DateOfBirth": "1994-01-01",
+    "State": "California",
+    "email": "marthascarllet@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "smith" },
+      { "Relationship": "Child", "Name": "Ethel Scarllet" }
+    ]
+  },
+  {
+    "id": "59a76c17-7f27-4f8b-823e-9bc136761a37",
+    "insuredFirstName": "Annie",
+    "insuredLastName": "Lily",
+    "Age": 29,
+    "DateOfBirth": "1997-07-01",
+    "State": "Perth",
+    "email": "annie.lily@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "Annie Lily" },
+      { "Relationship": "Child", "Name": "Emma Lily" }
+    ]
+  },
+  {
+    "id": "3fdf3bab-4bbf-4495-92eb-6d3928f9b4d0",
+    "insuredFirstName": "Edith",
+    "insuredLastName": "Sophie",
+    "Age": 31,
+    "DateOfBirth": "1993-10-01",
+    "State": "Sydney",
+    "email": "edith.sophie@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "Edith Sophie" },
+      { "Relationship": "Child", "Name": "Eliza Sophie" }
+    ]
+  },
+  {
+    "id": "8d96ee75-3ca3-474b-be46-299a5bc55257",
+    "insuredFirstName": "Hannah",
+    "insuredLastName": "Ruby",
+    "Age": 35,
+    "DateOfBirth": "1998-01-01",
+    "State": "California",
+    "email": "john.doe@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "Hannah Ruby" },
+      { "Relationship": "Child", "Name": "Susan Ruby" }
+    ]
+  },
+  {
+    "id": "366ee92c-a488-43a1-9408-6bdee2edad06",
+    "insuredFirstName": "Martha ",
+    "insuredLastName": "Scarllet",
+    "Age": 30,
+    "DateOfBirth": "1994-01-01",
+    "State": "California",
+    "email": "marthascarllet@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "Martha Scarllet" },
+      { "Relationship": "Child", "Name": "Ethel Scarllet" }
+    ]
+  },
+  {
+    "id": "ed646f21-6ca5-4ea7-a841-ecc38584b1f9",
+    "insuredFirstName": "Abarar ",
+    "insuredLastName": "Smith",
+    "Age": 30,
+    "DateOfBirth": "1994-01-01",
+    "State": "California",
+    "email": "marthascarllet@example.com",
+    "PhoneNumber": "123-456-7890",
+    "Status": "Active",
+    "Beneficiaries": [
+      { "Relationship": "Spouse", "Name": "smith" },
+      { "Relationship": "Child", "Name": "Ethel Scarllet" }
+    ]
+  }
+]
